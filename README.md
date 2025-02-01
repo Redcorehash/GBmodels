@@ -1,6 +1,6 @@
-# GBModel Repository
+# GBModel
 
-This repository contains the implementation of the **GBModel**, a machine learning model designed for [insert purpose of the model]. The model is trained to [insert brief description of what the model does].
+The model which determine how much the model weighs. Just put a link to the model and click on the button and the neural network will determine how much this model weighs
 
 ## Getting Started
 
@@ -16,8 +16,8 @@ Before you begin, ensure you have the following installed:
 
 ### Installation
 
-1. **Clone the repository** (optional):
+1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Redcorehash/GBModel.git
+   git clone https://github.com/Redcorehash/GBModels.git
    cd GBModel
